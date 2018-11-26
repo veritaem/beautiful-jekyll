@@ -14,4 +14,4 @@ Hello there, my name is Daniel Harris, a data scientist-in-training, a pleasure 
 
 ### What I want out of my work
 
-I am focused on finding a way to give concreteness to political decisions, especially as they pertain to the geopolitical landscape.  Policy is now more important than ever, with the voices of the actors on the world stage both magnified and muffled by the sheer volume of information our modern world can produce and transmit.  Because of this, movements made on the world scale are felt far more immediately by the populace than ever, making accuracy and steady improvement a must.    
+I am focused on finding a way to give concreteness to political decisions.  Policy is now more important than ever, with the voices of the actors on the world stage both magnified and muffled by the sheer volume of information our modern world can produce and transmit.  Because of this, movements made on the world scale are felt far more immediately by the populace than ever, making accuracy and steady improvement a must.    
