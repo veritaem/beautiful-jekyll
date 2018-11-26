@@ -4,5 +4,5 @@ subtitle: competent teachers yield competent students
 gh-repo : veritaem/veritaem.github.io
 ---
 
-![data](veritaem.github.io/img/sprint2.png)
+![data](https://veritaem.github.io/img/sprint2.png)
       
