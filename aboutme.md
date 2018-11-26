@@ -1,16 +1,17 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Greetings!
+subtitle: First step of a never-ending journey!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello there, my name is Daniel Harris, a data scientist-in-training, a pleasure to meet you!  I was drawn to this field because of job opportunities and my love of predicting geopolitical moves and outcomes!  While I have no formal training in programming, data collection or the higher maths, I've been able to scrape enough together to get whatever I want to do, done(at least so far!) My best qualities would probably be:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- love of learning
+- frequent idea generation
+- ability to work more or less nonstop when the need arises
+- 'worst to first' mentality
 
-What else do you need?
 
-### my history
+### What I want out of my work
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am focused on finding a way to give concreteness to political decisions, especially as they pertain to the geopolitical landscape.  Policy is now more important than ever, with the voices of the actors on the world stage both magnified and muffled by the sheer volume of information our modern world can produce and transmit.  Because of this, movements made on the world scale are felt far more immediately by the populace than ever, making accuracy and steady improvement a must.    
