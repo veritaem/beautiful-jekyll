@@ -4,7 +4,7 @@ title: Two weeks in
 subtitle: competent teachers yield competent students
 gh-repo : veritaem/veritaem.github.io
 gh-badge:  [star, fork, follow]
-tags: [learning], [graphs], [538]
+tags: [learning]
 ---
 
 As a learning exercise, my teachers had their students recreate professional-level graphs, specifically those produced by FiveThirtyEight.com.
