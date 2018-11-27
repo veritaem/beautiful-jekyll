@@ -56,10 +56,8 @@ footer-link-col: "#000000"
 # instead of colour
 
 # navbar-img: "/img/bgimage.png"
-# footer-img: "/img/bgimage.png"
- page-img: "
-        veritaem.github.io/img/bekir-donmez-335320-unsplash.jpg
-      "
+ footer-img: "/img/bekir-donmez-335320-unsplash.jpg"
+ page-img: "/img/bekir-donmez-335320-unsplash.jpg"
 
 # --- Footer options --- #
 
