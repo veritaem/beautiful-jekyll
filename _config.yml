@@ -56,21 +56,13 @@ footer-link-col: "#000000"
 # instead of colour
 
  <div class="bg-image"></div>
-
-body, html {
-  height: 100%;
-}
-
-* {
-  box-sizing: border-box;
-}
-
 .bg-image {
-  background-image: url("ezra-comeau-jeffrey-646305-unsplash.jpg");
+  <img src="ezra-comeau-jeffrey-646305-unsplash.jpg"</img>
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
+<img src="ezra-comeau-jeffrey-646305-unsplash.jpg"</img>
 
 
 # --- Footer options --- #
