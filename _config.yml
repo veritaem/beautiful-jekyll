@@ -66,25 +66,12 @@ body, html {
 }
 
 .bg-image {
-  /* The image used */
   background-image: url("ezra-comeau-jeffrey-646305-unsplash.jpg");
-
-  /* Add the blur effect */
-  filter: blur(8px);
-  -webkit-filter: blur(8px);
-
-  /* Full height */
-  height: 100%;
-
-  /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
-# navbar-img: "/img/bgimage.png"
- #footer-img: "/img/bekir-donmez-335320-unsplash.jpg"
-#page-img: url("veritaem.github.io/img/bekir-donmez-335320-unsplash.jpg");
-#background-size:cover;
+
 
 # --- Footer options --- #
 
