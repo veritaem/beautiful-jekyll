@@ -67,7 +67,7 @@ body, html {
 
 .bg-image {
   /* The image used */
-  background-image: url("photographer.jpg");
+  background-image: url("ezra-comeau-jeffrey-646305-unsplash.jpg");
 
   /* Add the blur effect */
   filter: blur(8px);
