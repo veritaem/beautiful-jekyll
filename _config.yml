@@ -45,7 +45,7 @@ avatar: "/img/hamish-clark-365162-unsplash.jpg"
 navbar-col: "#CBC5EB"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
-page-col: "#9BF0C7"
+#page-col: "#9BF0C7"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#5792C9"
@@ -57,8 +57,7 @@ footer-link-col: "#000000"
 
 # navbar-img: "/img/bgimage.png"
  #footer-img: "/img/bekir-donmez-335320-unsplash.jpg"
- #page-img: url(
-     #   "veritaem.github.io/img/bekir-donmez-335320-unsplash.jpg");
+page-img: url("veritaem.github.io/img/bekir-donmez-335320-unsplash.jpg");
 #background-size:cover;
 
 # --- Footer options --- #
