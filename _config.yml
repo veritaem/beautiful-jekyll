@@ -45,8 +45,8 @@ avatar: "/img/hamish-clark-365162-unsplash.jpg"
 navbar-col: "#CBC5EB"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
-#page-col: "#9BF0C7"
-page-img: url("veritaem.github.io/img/ezra-comeau-jeffrey-646305-unsplash.jpg")
+page-col: "#9BF0C7"
+background-img: url("veritaem.github.io/img/ezra-comeau-jeffrey-646305-unsplash.jpg")
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#5792C9"
